@@ -51,9 +51,9 @@ width: 30%;
 
         <section id="triptico">
             <div class="triptico1">
-                <a href="https://www.canva.com/design/DAFXM0hxxFA/jisywL8pzvUDS0djWI-giA/edit?layoutQuery=Tr%C3%ADptico#"></a>
+                <a href="https://www.canva.com/design/DAFXM0hxxFA/jisywL8pzvUDS0djWI-giA/edit?layoutQuery=Tr%C3%ADptico#">
 <img src="https://st2.depositphotos.com/1561359/5550/v/950/depositphotos_55501095-stock-illustration-blank-tri-fold-brochure-design.jpg" alt="">
-           </a>
+</a>
 </div>
         </section>
         </body>
